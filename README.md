@@ -15,7 +15,7 @@ Dr. Bikash Gyawali
 
 
 ## Work Experience
-### Data Scientist, Spencer Group, UK (2022 to Present)
+### Data Scientist, [Spencer Group](https://thespencergroup.co.uk/), UK (2022 to Present)
 
 ### Data Scientist, University of Hull, UK (2020 to 2022)
 
@@ -26,15 +26,16 @@ Dr. Bikash Gyawali
 
 ## Projects
 ### Document Classification
-* Developed a bespoke machine learning solution for document categorisation at Spencer Group.
-* 400+ users benefit from its usage on a daily basis for automatic registration of incoming documents/emails to project folders.
+* Developed a bespoke machine learning solution for document categorisation at [Spencer Group](https://thespencergroup.co.uk/).
+
+* 400+ users benefit from its usage on a daily basis for automatic registration of incoming documents/emails to projects.
 
 
 ### [ON-MERRIT](https://on-merrit.eu/): Observing and Negating Matthew Effects in Responsible Re- search & Innovation Transition (Funder: European Commission).
 * I worked on WP3 of this project focusing on big data analysis of scholarly publications to quantify the impact of “Open Science” practices in academia including citation practices and promotion policies. [https://github.com/on-merrit/ON-MERRIT](https://github.com/on-merrit/ON-MERRIT)
 
 
-### [CORE](https://core.ac.uk/): The world’s largest collection of open access research papers (Fun- der: Jisc, UK).
+### [CORE](https://core.ac.uk/): The world’s largest collection of open access research papers (Funder: Jisc, UK).
 * Deduplication : I developed a text mining solution which identifies near duplicate copies of documents. I deployed this as an openly accessible API running in a collection of more than 170 million scientific publications. [https://core.ac.uk/docs/#!/articles/nearDuplicateArticles](https://core.ac.uk/docs/#!/articles/nearDuplicateArticles)
 
 * CORE-MAG Mapping Dataset: I enhanced 8.9 Million records in CORE with information from Microsoft Academic Graph which was used to provide full text pdfs of research articles. [https://core.ac.uk/documentation/dataset/](https://core.ac.uk/documentation/dataset/)
