@@ -4,9 +4,10 @@ Dr. Bikash Gyawali
 
 # Data Scientist with NLP expertise
 
-### [AWS Certified Machine Learning – Specialty certification](https://www.credly.com/badges/99d07d4f-d697-44e5-bfb7-9dba4fd69f78/public_url)
+## [AWS Certified Machine Learning – Specialty certification](https://www.credly.com/badges/99d07d4f-d697-44e5-bfb7-9dba4fd69f78/public_url)
 
-### Contact: bikash.gyawali@outlook.com
+## Contact: bikash.gyawali@outlook.com
+
 
 ## Education
 ### PhD in Computer Science (Specialisation: Natural Language Processing), 2016, Université de Lorraine, France
