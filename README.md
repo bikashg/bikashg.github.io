@@ -7,7 +7,7 @@ Dr. Bikash Gyawali
 ## [AWS Certified Machine Learning – Specialty certification](https://www.credly.com/badges/99d07d4f-d697-44e5-bfb7-9dba4fd69f78/public_url)
 
 
-  
+<br>
 
 
 ## Education
@@ -15,7 +15,7 @@ Dr. Bikash Gyawali
 
 * Thesis on automatic generation of human friendly descriptions of RDF Triples in Knowledge Bases. [https://hal.inria.fr/tel-01276008/document](https://hal.inria.fr/tel-01276008/document)
 
-
+<br>
 
 ## Work Experience
 ### Data Scientist, [Spencer Group](https://thespencergroup.co.uk/), UK (2022 to Present)
@@ -26,6 +26,7 @@ Dr. Bikash Gyawali
 
 ### Post Doctoral Researcher, CNRS, France (2015 to 2017)
 
+<br>
 
 ## Projects
 ### Document Classification
@@ -46,12 +47,12 @@ Dr. Bikash Gyawali
 ### [ModelWriter](https://itea4.org/project/modelwriter.html): Integrated authoring environment for text and KB, (Funder: European Commission).
 * I developed the ‘Semantic Parser’ module of the project. I produced project deliver- ables and represented our team in international meetings, reviews and demos [https://github.com/ModelWriter/Deliverables](https://github.com/ModelWriter/Deliverables)
 
-
+<br>
 
 ## Technical Skills
 * AWS, Terraform, PySpark, Pandas, Python, API Programming, Git, Scientific Writing, Research Methodologies.
 
-
+<br>
 
 ## Selected Publications
 
