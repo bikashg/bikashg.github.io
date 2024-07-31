@@ -4,3 +4,5 @@ description: AWS certified Data Scientist working on NLP, Machine Learning, Docu
 email: bikash.gyawali@outlook.com
 show_downloads: false
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
