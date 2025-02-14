@@ -34,9 +34,6 @@ Dr. Bikash Gyawali
 ### Document Classification
 * Developed a bespoke machine learning solution for document categorisation at [Spencer Group](https://thespencergroup.co.uk/).
 
-* 400+ users benefit from its usage on a daily basis for automatic registration of incoming documents/emails to projects.
-
-
 ### [ON-MERRIT](https://on-merrit.eu/): Observing and Negating Matthew Effects in Responsible Re- search & Innovation Transition (Funder: European Commission).
 * I worked on WP3 of this project focusing on big data analysis of scholarly publications to quantify the impact of “Open Science” practices in academia including citation practices and promotion policies. [https://github.com/on-merrit/ON-MERRIT](https://github.com/on-merrit/ON-MERRIT)
 
